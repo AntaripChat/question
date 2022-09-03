@@ -36,3 +36,5 @@ Sample Output
 3
 Explanation
 Since we have 5 buckets. Initially, by query 1 all buckets get filled. After query 2 only 1, 3, 5 buckets are filled. After query 3 only 3 buckets are filled (i.e. 1, 3, 5). Therefore 3 is the answer.
+
+
